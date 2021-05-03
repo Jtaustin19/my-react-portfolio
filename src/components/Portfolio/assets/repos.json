@@ -1,0 +1,44 @@
+[
+    {
+        "id": "0",
+        "name": "Meal Plan",
+        "image": "./project-images/meal-plan.png",
+        "repositoryLink": "https://github.com/IsiBee/meal-plan-challenge",
+        "deployedLink": "https://pumpkin-pie-32612.herokuapp.com/"
+    },
+    {
+        "id": "1",
+        "name": "Budget Tracker",
+        "image": "./project-images/budget-tracker.png",
+        "repositoryLink": "https://github.com/Jtaustin19/budget-tracker-pwa",
+        "deployedLink": "https://jtaustin19-budget-tracker-pwa.herokuapp.com/"
+    },
+    {
+        "id": "2",
+        "name": "Park Project",
+        "image": "./project-images/park-project.png",
+        "repositoryLink": "https://github.com/Rachel-Reidenga/ParkProject",
+        "deployedLink": "https://rachel-reidenga.github.io/ParkProject/"
+    },
+    {
+        "id": "3",
+        "name": "Note Taker",
+        "image": "./project-images/note-taker.png",
+        "repositoryLink": "https://github.com/Jtaustin19/the-best-note-taker",
+        "deployedLink": "https://the-best-note-taker.herokuapp.com/"
+    },
+    {
+        "id": "4",
+        "name": "Future Forecast",
+        "image": "./project-images/future-forecast.png",
+        "repositoryLink": "https://github.com/Jtaustin19/future-forecast",
+        "deployedLink": "https://jtaustin19.github.io/future-forecast/"
+    },
+    {
+        "id": "5",
+        "name": "Professional Portfolio",
+        "image": "./project-images/joshua-austin.png",
+        "repositoryLink": "https://github.com/Jtaustin19/joshuaaustin",
+        "deployedLink": "https://jtaustin19.github.io/joshuaaustin/"
+    }
+]

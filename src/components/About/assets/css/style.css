@@ -1,0 +1,28 @@
+.about-content {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.pic-container {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    overflow: hidden;
+    position: relative;
+}
+
+.bio-pic {
+    position: absolute;
+    top: -40px;
+    width: 100%;
+    height: auto;
+}
+
+.bio-text {
+    width: 50%;
+    min-width: 245px;
+    color: black;
+}
